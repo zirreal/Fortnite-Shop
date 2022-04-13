@@ -18,9 +18,9 @@ https://zirreal.github.io/Fortnite-Shop/
 https://fortniteapi.io/
 
 ## Key Features:
-- Управление состоянием с помощью Redux
-- Получении данных из API
-- Ant design - React UI библиотека
+- Redux - State Container
+- Data fetched from API
+- Ant design - React UI library
 
 ## Technologies used in the Project
 - typescript
@@ -60,9 +60,9 @@ https://fortniteapi.io/
 
 
 ## Основные особенности:
-- Redux - State Container
-- Data fetched from API
-- Ant design - React UI library
+- Управление состоянием с помощью Redux
+- Получении данных из API
+- Ant design - React UI библиотека
 
 ## Технологии, использованные в проекте:
 - typescript
