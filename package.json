@@ -1,6 +1,7 @@
 {
   "name": "shop-ts",
   "version": "0.1.0",
+  "homepage": "https://zirreal.github.io/Fortnite-Shop",
   "private": true,
   "dependencies": {
     "@types/node": "^17.0.23",
@@ -26,7 +27,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

@@ -24,7 +24,7 @@ const App: FC = () => {
     const {isBasketShow} = useTypedSelector(state => state.basket)
 
     return (
-        <Router>
+        <Router basename='/Fortnite-Shop'>
             <Layout>
                 <Header/>
                 <Content className="site-layout" style={{ padding: '0 50px', marginTop: 64 }}>
